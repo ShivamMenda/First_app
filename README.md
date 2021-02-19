@@ -1,6 +1,6 @@
 # I_am_Rich
 
-A new Flutter application.
+A Simple Flutter Application with an App Bar and an Image.
 
 ## Getting Started
 
